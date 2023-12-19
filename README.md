@@ -1,7 +1,7 @@
 # EdgeSAM-MNN
-One MNN deployment of EdgeSAM
-Prompt-In-the-Loop Distillation for On-Device Deployment of SAM
-https://github.com/chongzhou96/EdgeSAM
+One MNN deployment of EdgeSAM  
+Prompt-In-the-Loop Distillation for On-Device Deployment of SAM  
+https://github.com/chongzhou96/EdgeSAM  
 
 ## python 
 Run:
